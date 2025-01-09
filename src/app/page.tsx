@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 
-// Define interfaces for the data
+
 interface Size {
   name: string;
   dimensions: string;
